@@ -26,3 +26,4 @@ TaskNTrack is an all-in-one application for task tracking and personal inventory
 cd frontend
 yarn install
 yarn dev
+```
